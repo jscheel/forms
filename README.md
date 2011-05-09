@@ -1,4 +1,6 @@
 # Forms
+This is a forked version of the node.js form framework by [caolan](http://github.com/caolan)
+
 
 Constructing a good form by hand is a lot of work. Popular frameworks like
 Ruby on Rails and Django contain code to make this process less painful.
